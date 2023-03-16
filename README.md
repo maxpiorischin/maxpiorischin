@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxpiorischin&label=Profile%20views&color=0e75b6&style=flat" alt="maxpiorischin" /> </p>
 
-- 🔭 I’m currently working on [Pokémon Showdown Bot](https://github.com/maxpiorischin/ShowdownBot)
+- 🔭 I’m currently working on [Pokémon Showdown Extension](https://github.com/maxpiorischin/pokemon-showdown-extension)
 
 - 🌱 I’m currently learning **Rust, React**
 
