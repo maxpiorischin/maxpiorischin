@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxpiorischin&label=Profile%20views&color=0e75b6&style=flat" alt="maxpiorischin" /> </p>
 
-- 👨‍🎓 I’m currently studying at [Toronto Metropolitan University](https://www.torontomu.ca/), formerly Ryerson University
+- 💻 I'm a Software Engineer at Shopify 
+
+- 👨‍🎓 I’m finishing up my final year studying at [Toronto Metropolitan University](https://www.torontomu.ca/), formerly Ryerson University
 
 - 🔭 I’m currently working on [Pokémon Showdown Extension](https://github.com/maxpiorischin/pokemon-showdown-extension)
 
