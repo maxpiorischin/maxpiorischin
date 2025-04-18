@@ -5,11 +5,11 @@
 
 - 💻 I'm a Software Engineer at Shopify 
 
-- 👨‍🎓 I’m finishing up my final year studying at [Toronto Metropolitan University](https://www.torontomu.ca/), formerly Ryerson University
+- 👨‍🎓 I've graduated with a CS Degree from [Toronto Metropolitan University](https://www.torontomu.ca/), formerly Ryerson University
 
-- 🔭 I’m currently working on [Pokémon Showdown Extension](https://github.com/maxpiorischin/pokemon-showdown-extension)
+<!-- - 🔭 I’m currently working on [Pokémon Showdown Extension](https://github.com/maxpiorischin/pokemon-showdown-extension) -->
 
-- 🌱 I’m currently learning **Rust, React**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/maxpiorischin?tab=repositories](https://github.com/maxpiorischin?tab=repositories)
 
